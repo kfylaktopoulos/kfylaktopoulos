@@ -1,3 +1,8 @@
+
+<h1 align="center">Hi 👋, I'm Konstantinos</h1>
+<h3 align="center">Front End Developer</h3>
+
+
 ## 💻 My Tech Stack
 
 ### 🚀 Frontend Development
@@ -20,3 +25,11 @@
 ### 🛠 Development Tools
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
+
+
+<h3 align="center">Operating System Tools:</h3>
+<p align="center">
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+  <a href="https://www.apple.com/macos/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macOS" width="40" height="40"/></a>
+</p>
