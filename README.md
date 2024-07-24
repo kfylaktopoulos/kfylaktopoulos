@@ -1,8 +1,5 @@
-
-
 <h1 align="center">Hi 👋, I'm Konstantinos</h1>
 <h3 align="center">Front End Developer</h3>
-
 
 ## 💻 My Tech Stack
 
@@ -40,6 +37,8 @@
         <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="tailwind" />
       <br>Tailwind
     </td>
+  </tr>
+    <tr>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jquery" width="65" height="65" alt="jquery" />
       <br>JQuery
@@ -59,11 +58,9 @@
 </table>
 
 ## 🛠️ Operating System Tools
+
 <p align="center">
   <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
   <a href="https://www.apple.com/macos/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macOS" width="40" height="40"/></a>
 </p>
-
-
-
