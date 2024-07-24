@@ -54,6 +54,10 @@
         <img src="https://skillicons.dev/icons?i=next" width="65" height="65" alt="Git" />
       <br>Next
     </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=apollo" width="65" height="65" alt="Git" />
+      <br>Next
+    </td>
  </tr>
 </table>
 
